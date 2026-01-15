@@ -1,3 +1,7 @@
+# The nob.h build directory and binaries
+build/
+nob
+
 # Prerequisites
 *.d
 
